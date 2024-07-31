@@ -1,1 +1,1 @@
-# Solutions to tasks on JavaScript - Web scraping
+Project 0x14-Javascript-web_scraping
